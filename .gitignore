@@ -161,3 +161,4 @@ cython_debug/
 
 #API book additions
 test_data_output/
+.venv/
